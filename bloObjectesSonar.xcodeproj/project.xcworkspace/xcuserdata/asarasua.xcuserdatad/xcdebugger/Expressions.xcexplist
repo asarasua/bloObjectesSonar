@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ObjectTracker::selectCategory(unsigned int):ObjectTracker.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "objects[_label].getArea()/50">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
